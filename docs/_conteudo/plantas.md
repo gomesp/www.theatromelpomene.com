@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: landing
 title: Plantas Arquitetônicas
 description: Plantas arquitetônicas originais e redesenhadas digitalmente
 image: assets/images/pic01.jpg

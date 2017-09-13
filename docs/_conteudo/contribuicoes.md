@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: landing
 title: Contribuições
 description: Espaço para novas contribuições de quem quiser (fotos, referências novas, comentários)
 image: assets/images/pic01.jpg

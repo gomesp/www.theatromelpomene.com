@@ -1,8 +1,8 @@
 ---
-layout: post
-title: Vídeos
-description: Feugiat amet tempus
-image: assets/images/pic02.jpg
+layout: page
+title: Release
+description: Algo sobre a release...
+image: assets/images/pic06.jpg
 ---
 
 Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. 

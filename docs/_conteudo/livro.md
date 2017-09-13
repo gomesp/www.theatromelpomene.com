@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: landing
 title: Livro
 description: Revivendo o Melpômene - cinco atos das memórias de um teatro de madeira
 image: assets/images/pic01.jpg
