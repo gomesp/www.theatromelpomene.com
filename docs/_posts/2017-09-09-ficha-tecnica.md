@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Tempus
-description: Feugiat amet tempus
-image: assets/images/pic02.jpg
+title: Ficha Técnica
+description: Ipsum dolor sit amet
+image: assets/images/pic05.jpg
 ---
 
 Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. 

@@ -15,7 +15,7 @@ phone: (27) 98155-1829
 
 # homepage tiles
 tiles-source: posts # accepts "posts" or "pages"
-tiles-count: 6
+tiles-count: 9
 
 # social settings
 facebook_url: https://www.facebook.com/colette.dantas
