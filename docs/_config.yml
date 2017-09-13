@@ -6,27 +6,20 @@ description:
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://theatromelpomene.com" # the base hostname & protocol for your site
 author: Colette Dantas
-street_address: 
-city: 
-state: 
+street_address:
+city: Vitória
+state: ES
 zip_code: 
 country: 
-phone: 
+phone: (27) 98155-1829
 
 # homepage tiles
 tiles-source: posts # accepts "posts" or "pages"
 tiles-count: 6
 
 # social settings
-500px_url:
-facebook_url:
-github_url:
-gitlab_url: 
-googleplus_url: 
-instagram_url: 
-linkedin_url: 
-pinterest_url:
-slack_url:
+facebook_url: https://www.facebook.com/colette.dantas
+instagram_url: https://www.instagram.com/colettedantas3/ 
 twitter_url: https://twitter.com/colettedantas
 
 # build settings
