@@ -1,10 +1,10 @@
 # site settings
-title: Theatro
-subtitle: Melpômene
+title: Theatro Melpômene
+subtitle: 
 email: colette@colettedantas.com
 description: Acendem-se as primeiras luzes do Theatro Melpômene. Em breve o teatro de ‘pau’ vai reviver suas memórias no território que herdou sua vocação, a partir de seus vestígios materiais e culturais.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+url: "http://theatromelpomene.com" # the base hostname & protocol for your site
 author: Colette Dantas
 street_address: 
 city: 
