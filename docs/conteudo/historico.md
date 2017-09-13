@@ -1,8 +1,8 @@
 ---
-layout: landing
-title: Contribuições
-description: Espaço para novas contribuições de quem quiser (fotos, referências novas, comentários)
-image: assets/images/pic01.jpg
+layout: conteudo
+title: Histórico
+description: Histórico resumido do Theatro Melpômene
+image: assets/images/pic04.jpg
 ---
 
 Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. 

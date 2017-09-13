@@ -1,5 +1,5 @@
 ---
-layout: landing
+layout: conteudo
 title: Fotografias
 description: Lorem etiam nullam
 image: assets/images/pic03.jpg

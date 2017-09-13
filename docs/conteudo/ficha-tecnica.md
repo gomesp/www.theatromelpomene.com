@@ -1,5 +1,5 @@
 ---
-layout: landing
+layout: conteudo
 title: Ficha Técnica
 description: Ipsum dolor sit amet
 image: assets/images/pic05.jpg

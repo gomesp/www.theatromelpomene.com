@@ -1,7 +1,7 @@
 ---
-layout: landing
-title: Livro
-description: Revivendo o Melpômene - cinco atos das memórias de um teatro de madeira
+layout: conteudo
+title: Contribuições
+description: Espaço para novas contribuições de quem quiser (fotos, referências novas, comentários)
 image: assets/images/pic01.jpg
 ---
 

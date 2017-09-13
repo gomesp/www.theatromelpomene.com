@@ -27,9 +27,3 @@ markdown: kramdown
 
 sass:
   style: compressed
-
-collections:
-  conteudo:
-    output: true
-    layout: page
-    permalink: /:collection/:name
