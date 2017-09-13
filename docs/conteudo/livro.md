@@ -3,6 +3,7 @@ layout: conteudo
 title: Livro
 description: Revivendo o Melpômene - cinco atos das memórias de um teatro de madeira
 image: assets/images/pic01.jpg
+peso: 55
 ---
 
 Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. 

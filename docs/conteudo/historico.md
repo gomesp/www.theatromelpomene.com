@@ -3,6 +3,7 @@ layout: conteudo
 title: Histórico
 description: Histórico resumido do Theatro Melpômene
 image: assets/images/pic04.jpg
+peso: 20
 ---
 
 Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. 

@@ -1,6 +1,7 @@
 <section id="one" class="tiles">
-	{% for page in site.pages limit:site.tiles-count %}
-        {% if site.tiles-source == 'pages' and page.layout == 'conteudo' %}
+        {% assign pages = (site.pages | sort: 'peso')%}
+        {% for page in pages %}
+        {% if page.layout == 'conteudo' %}
         <article>
                 <span class="image">
                         <img src="{{ page.image }}" alt="" />
@@ -10,6 +11,7 @@
                         <p>{{ page.description }}</p>
                 </header>
         </article>
-	{% endif %}
+        {% endif %}
+
 	{% endfor %}
 </section>

@@ -3,6 +3,7 @@ layout: conteudo
 title: Fotografias
 description: Lorem etiam nullam
 image: assets/images/pic03.jpg
+peso: 30
 ---
 
 ![test image]({{ site.url | absolute_path}}/assets/images/pic03.jpg)

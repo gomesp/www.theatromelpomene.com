@@ -3,6 +3,7 @@ layout: conteudo
 title: Contribuições
 description: Espaço para novas contribuições de quem quiser (fotos, referências novas, comentários)
 image: assets/images/pic01.jpg
+peso: 60
 ---
 
 Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. 

@@ -3,6 +3,7 @@ layout: conteudo
 title: Ficha Técnica
 description: Ipsum dolor sit amet
 image: assets/images/pic05.jpg
+peso: 10
 ---
 
 Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. 
