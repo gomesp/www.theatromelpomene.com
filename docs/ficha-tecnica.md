@@ -1,10 +1,11 @@
 ---
 layout: landing
 title: Ficha Técnica
-description: Colaboradores do projeto
+description: 
 image: assets/images/foto-ficha-tecnica.jpg
 tile-display: true
 peso: 10
+permalink: /ficha/
 ---
 
 <div class="row">

@@ -1,10 +1,11 @@
 ---
-layout: page
+layout: conteudo
 title: Histórico
-description: Histórico resumido do Theatro Melpômene
+description: 
 image: assets/images/foto-historico.jpg
 tile-display: true
 peso: 20
+permalink: /historico/
 ---
 
 O Theatro Melpômene foi o 1º teatro à italiana de Vitória (ES), inaugurado em 1896 na Praça Costa Pereira, Centro Histórico da cidade, e demolido em 1925, um ano após sua interdição. 
@@ -20,11 +21,13 @@ A fachada do teatro era toda modulada em painéis de madeira com sistema de trav
 Para construir o teatro foram contratados diversos profissionais italianos da construção civil, a começar pelo engenheiro projetista da obra – Filinto Santoro, o pintor Spiridioni Astolfoni, e o jovem ajudante de serviços Andrea Carloni.
 
 O Projeto Arquitetônico do teatro foi desenvolvido por Santoro entre 1895 e 1896, que redigiu um memorial descritivo abordando questões conceituais, técnicas e construtivas da edificação, e ainda apresenta referências estéticas e programáticas que esclarecem seu processo criativo e decisões projetuais importantes.  
+
 Internamente, na sala de espetáculos observa-se as ordens da plateia: térrea, frisas, camarotes e galerias. A planta em ferradura revela o traçado das edificações teatrais neoclássicas. O arco de cena decorado, possuía camarotes de palco nas suas laterais e um fosso de orquestra. Foi a primeira edificação de Vitória a ter luz elétrica, fornecida por gerador próprio.
 
 O teatro recebia uma diversidade de atrações, principalmente espetáculos cênicos. Exibiu a primeira sessão pública de cinema em 1901, e instalou no espaço um dos primeiros cinemas da cidade. Os eventos políticos e sociais também eram frequentemente abrigados pelo Melpômene, como bailes de carnaval e banquetes.
 
 Em 8 de outubro de 1924, durante a sessão do filme Ordens Secretas, um princípio de incêndio na cabine de projeção do Melpômene levou o público a um pânico destruidor. O desespero levou algumas pessoas a se jogarem do balcão para dentro e para fora do teatro. Parte da escada destinada ao público do balcão cedeu ao peso. O incêndio foi controlado, mas dois mortos e dezenas de feridos foram o resultado da tragédia, que levou ao encerramento das portas da casa de espetáculos.
+
 O edifício foi interditado em 1924 e em 1925 o Theatro Melpômene foi totalmente desmontado. Todo o material foi adquirido por André Carloni, que construiu o Theatro Carlos Gomes utilizando as colunas metálicas do Melpômene para sustentar as galerias dos camarotes do novo teatro.
 
 A Praça Costa Pereira passou por uma transformação radical do seu traçado, que excluía o Melpômene da sua conformação, mas previa em projeto a construção de dois teatros, incluindo o Carlos Gomes.
