@@ -3,6 +3,7 @@ layout: landing
 title: Plantas Arquitetônicas
 description: Plantas arquitetônicas originais e redesenhadas digitalmente
 image: assets/images/pic01.jpg
+tile-display: true
 ---
 
 Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. 

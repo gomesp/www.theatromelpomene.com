@@ -1,8 +1,9 @@
 ---
-layout: page
-title: Release
-description: Algo sobre a release...
-image: assets/images/pic06.jpg
+layout: landing
+title: Livro
+description: Revivendo o Melpômene - cinco atos das memórias de um teatro de madeira
+image: assets/images/pic01.jpg
+tile-display: true
 ---
 
 Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. 

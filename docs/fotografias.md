@@ -3,6 +3,7 @@ layout: landing
 title: Fotografias
 description: Lorem etiam nullam
 image: assets/images/pic03.jpg
+tile-display: true
 ---
 
 ![test image]({{ site.url | absolute_path}}/assets/images/pic03.jpg)

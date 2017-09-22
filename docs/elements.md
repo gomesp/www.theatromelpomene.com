@@ -2,6 +2,7 @@
 layout: landing
 title: Elements
 nav-menu: true
+tile-display: false
 ---
 
 <!-- Main -->

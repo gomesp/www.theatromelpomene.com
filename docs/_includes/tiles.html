@@ -1,10 +1,7 @@
 <section id="one" class="tiles">
-        <pre>
-                {{ site.collections | inspect }}
-        </pre>
-	{% for page in site.collections.conteudo.pages limit:site.tiles-count %}
-	{% if site.tiles-source == 'pages' %}
-        <article>
+        {% for page in site.pages limit:site.tiles-count %}
+        {% if page.tile-display == true %}
+        <article>              
                 <span class="image">
                         <img src="{{ page.image }}" alt="" />
                 </span>

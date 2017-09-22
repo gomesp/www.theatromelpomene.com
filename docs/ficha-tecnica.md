@@ -1,8 +1,9 @@
 ---
 layout: landing
-title: Contribuições
-description: Espaço para novas contribuições de quem quiser (fotos, referências novas, comentários)
-image: assets/images/pic01.jpg
+title: Ficha Técnica
+description: Ipsum dolor sit amet
+image: assets/images/pic05.jpg
+tile-display: true
 ---
 
 Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. 
