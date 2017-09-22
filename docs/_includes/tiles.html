@@ -1,5 +1,6 @@
 <section id="one" class="tiles">
-        {% for page in site.pages limit:site.tiles-count %}
+        {% assign sorted_pages = site.pages | sort:"peso" %}
+        {% for page in sorted_pages %}
         {% if page.tile-display == true %}
         <article>              
                 <span class="image">

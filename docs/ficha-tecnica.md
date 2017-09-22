@@ -1,9 +1,10 @@
 ---
-layout: landing
+layout: page
 title: Ficha Técnica
 description: Ipsum dolor sit amet
 image: assets/images/pic05.jpg
 tile-display: true
+peso: 10
 ---
 
 Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. 

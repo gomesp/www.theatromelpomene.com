@@ -4,6 +4,7 @@ title: Release
 description: Algo sobre a release...
 image: assets/images/pic06.jpg
 tile-display: true
+peso: 1
 ---
 
 O Projeto Revivendo o Melpômene reuniu uma equipe multidisciplinar de profissionais das áreas de teatro, arquitetura, ciências sociais, história, comunicação e design, que partiu de uma pesquisa histórica e iconográfica sobre o Theatro Melpômene, para reconstruir as memórias deste importante precursor dos equipamentos culturais da cidade de Vitória (ES/Brasil), produzindo resultados em diversas plataformas: um livro, uma exposição com maquetes física e eletrônica, uma intervenção cênica e um website.

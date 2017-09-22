@@ -4,6 +4,7 @@ title: Contribuições
 description: Espaço para novas contribuições de quem quiser (fotos, referências novas, comentários)
 image: assets/images/pic01.jpg
 tile-display: true
+peso: 100
 ---
 
 Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. 

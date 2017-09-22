@@ -1,9 +1,10 @@
 ---
 layout: landing
-title: Fotografias
-description: Lorem etiam nullam
+title: Fotografias e Plantas
+description: Fotografias e plantas arquitetônicas originais e redesenhadas digitalmente do Theatro Melpômene 
 image: assets/images/pic03.jpg
 tile-display: true
+peso: 30
 ---
 
 ![test image]({{ site.url | absolute_path}}/assets/images/pic03.jpg)
