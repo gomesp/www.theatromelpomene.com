@@ -8,4 +8,4 @@ peso: 50
 permalink: /livro/
 ---
 
-Fotografias
+Livro
