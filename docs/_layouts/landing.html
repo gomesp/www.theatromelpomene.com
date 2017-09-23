@@ -1,32 +1,30 @@
 <!DOCTYPE html>
 <html>
 
-    {% include head.html %}
+{% include head.html %}
 
-    <body>
+{% include header.html %}
 
-        {% include header.html %}
 
-        <section id="banner" class="style2">
-            <div class="inner">
-                <span class="image">
-                    <img src="{{ site.baseurl }}/{{ page.image }}" alt="">
-                </span>
-                <header class="major">
+<body>
 
-                    <h1>{{ page.title }}</h1>
+    <section id="banner" class="style2">
+        <div class="inner">
+            <header class="major">
 
-                </header>
-                <div class="content">
+                <h1>{{ page.title }}</h1>
 
-                    {{ page.description }}
+            </header>
+            <div class="content">
 
-                </div>
+                {{ page.description }}
+
             </div>
-        </section>
+        </div>
+    </section>
 
-    {{ content }}
-
+    <section id="one">{{ content }} </section>
+    
     {% include footer.html %}
 
 </body>
