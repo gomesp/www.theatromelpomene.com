@@ -2,7 +2,7 @@
 layout: landing
 title: Memória visual
 description: 
-image: assets/images/foto-plantas.jpg
+image: assets/images/foto-plantas.png
 tile-display: true
 peso: 30
 permalink: /fotografias/
@@ -109,9 +109,24 @@ legendas:
       foto: FIGURA-86F.png
 ---
 
+<h2>Fotografias</h2>
 <div class="box alt">
     <div class="row uniform">
         {% for counter in (0..49) %}
+        <div class="6u">
+            <span class="image">
+                <img src="{{ site.baseurl }}/assets/images/fotografias/{{page.legendas[counter].foto}}" alt="{{page.legendas[counter].legenda}}" height="300" />
+                <span class="label">{{page.legendas[counter].legenda}}</span>
+            </span>
+        </div>
+        {% endfor %}
+    </div>
+</div>
+
+ <h2>Plantas arquitetônicas</h2>
+<div class="box alt">
+    <div class="row uniform">
+        {% for counter in (0..1) %}
         <div class="6u">
             <span class="image">
                 <img src="{{ site.baseurl }}/assets/images/fotografias/{{page.legendas[counter].foto}}" alt="{{page.legendas[counter].legenda}}" height="300" />
