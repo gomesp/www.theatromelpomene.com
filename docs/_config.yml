@@ -21,6 +21,7 @@ tiles-count: 8
 facebook_url: https://www.facebook.com/colette.dantas
 instagram_url: https://www.instagram.com/colettedantas3/ 
 twitter_url: https://twitter.com/colettedantas
+colettedantas_url: http://colettedantas.com
 
 # build settings
 markdown: kramdown

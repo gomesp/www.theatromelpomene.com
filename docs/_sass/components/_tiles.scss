@@ -142,6 +142,30 @@
 					background-color: _palette(accent6);
 				}
 			}
+
+			&:nth-child(6n + 1) {
+				&:before {
+					background-color: _palette(accent7);
+				}
+			}
+
+			&:nth-child(6n + 2) {
+				&:before {
+					background-color: _palette(accent8);
+				}
+			}
+
+			&:nth-child(6n + 3) {
+				&:before {
+					background-color: _palette(accent9);
+				}
+			}
+
+			&:nth-child(6n + 4) {
+				&:before {
+					background-color: _palette(accent10);
+				}
+			}
 		}
 
 		@include breakpoint(large) {
