@@ -2,10 +2,10 @@
 layout: landing
 title: Vídeos
 description: 
-image: assets/images/foto-videos.jpg
+image: assets/images/foto-videos.png
 tile-display: true
 peso: 30
 permalink: /videos/
 ---
 
-Em breve
+Volte em breve
