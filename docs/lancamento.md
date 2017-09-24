@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Release
-description: Sub-título ou algum texto
+description: 
 image: assets/images/foto-release.jpg
 tile-display: true
 peso: 1
