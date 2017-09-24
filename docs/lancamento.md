@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Release
+title: Apresentação
 description: 
 image: assets/images/foto-release.jpg
 tile-display: true
