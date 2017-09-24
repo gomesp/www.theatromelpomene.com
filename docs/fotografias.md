@@ -1,6 +1,6 @@
 ---
 layout: landing
-title: Fotografias e plantas arquitetonicas
+title: Memória visual
 description: 
 image: assets/images/foto-plantas.jpg
 tile-display: true
