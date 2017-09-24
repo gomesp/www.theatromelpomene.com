@@ -166,7 +166,7 @@ legendas:
 <h2>Plantas arquitetônicas originais</h2>
 <div class="box alt">
     <div class="row uniform">
-        {% for counter in (0..9) %}
+        {% for counter in (0..8) %}
         <div class="6u">
             <span class="image">
                 <img src="{{ site.baseurl }}/assets/images/projeto/{{page.projetos_antigos[counter].foto}}" alt="{{page.projetos_antigos[counter].legenda}}" height="300" />
@@ -180,7 +180,7 @@ legendas:
 <h2>Plantas arquitetônicas redesenhadas</h2>
 <div class="box alt">
     <div class="row uniform">
-        {% for counter in (0..8) %}
+        {% for counter in (0..9) %}
         <div class="6u">
             <span class="image">
                 <img src="{{ site.baseurl }}/assets/images/projeto/{{page.projetos[counter].foto}}" alt="{{page.projetos[counter].legenda}}" height="300" />
