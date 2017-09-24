@@ -102,9 +102,9 @@ legendas:
     - legenda: "Desenho em bico de pena de André Carloni, representando o Largo da Conceição e o Theatro Melpômene em 1905, Vitória, 1961. Fonte: Coleções Especiais da Biblioteca Central da Universidade Federal do Espírito Santo - UFES, Acervo de Desenhos (bico de pena) de André Carloni."
       foto: FIGURA-83F.png
     - legenda: "Desenho do arquiteto Moacir Fraga de 1969, apresentando o Theatro Melpômene em 1922, “em dia de grande récita”. Fonte: Instituto do Patrimônio Histórico e Artístico Nacional do Espírito Santo (IPHAN-ES), Foto VTR-2611."
-      foto: FIGURA-85F.png
+      foto: FIGURA-84F.png
     - legenda: "Praça Costa Pereira atualmente. O espaço deixado pelo Theatro Melpômene fica evidente no território. O palco estaria no local do edifício do Hotel/Farmácia/Lanchonete, e a plateia e áreas sociais ficavam no vazio ocupado pela mini-praça e vias de circulação da localidade. O acesso à rua Graciano Neves não seria o mesmo se o teatro ainda estivesse ali. Foto: Colette Dantas"
-      foto: FIGURA-86F.png
+      foto: FIGURA-85F.png
     - legenda: "rua calçada lateral ao Theatro Carlos Gomes também se transformou em espaço cultural eventual. A Praça Costa Pereira hoje se transformou em grande &#39;teatro urbano&#39;. Foto: Colette Dantas"
       foto: FIGURA-86F.png
 ---
