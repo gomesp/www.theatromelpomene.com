@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: landing
 title: Vídeos
 description: 
 image: assets/images/foto-videos.jpg

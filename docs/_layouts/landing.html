@@ -15,15 +15,17 @@
                 <h1>{{ page.title }}</h1>
 
             </header>
-            <div class="content">
-
-                {{ page.description }}
-
-            </div>
         </div>
     </section>
 
-    <section id="one">{{ content }} </section>
+    <section id="one">
+        <div id="main" class="alt">
+            <section id="one">
+                <div class="inner">{{ content }}</div>
+                
+            </section>
+        </div>
+    </section>
     
 	{% include scripts.html %}
 

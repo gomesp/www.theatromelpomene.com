@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: landing
 title: O Livro
 description: 
 image: assets/images/foto-livro.jpg
