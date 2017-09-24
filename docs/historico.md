@@ -1,5 +1,5 @@
 ---
-layout: conteudo
+layout: landing
 title: Histórico
 description: 
 image: assets/images/foto-historico.jpg
