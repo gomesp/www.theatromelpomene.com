@@ -3,7 +3,7 @@
 
 	#banner {
 		@include vendor('align-items', 'center');
-		@include vendor('background-image', 'url("../images/banner.jpg")');
+//		@include vendor('background-image', 'url("../images/banner.png")');
 		@include vendor('display', 'flex');
 		@include padding(4em, 0, (2em, 0, 0, 0));
 		background-attachment: fixed;
@@ -89,9 +89,9 @@
 		}
 
 		&.major {
-			height: 45vh;
-			min-height: 60em;
-			max-height: 80em;
+			height: 25vh;
+			min-height: 30em;
+			max-height: 40em;
 
 			&.alt {
 				  opacity: 0.75;
