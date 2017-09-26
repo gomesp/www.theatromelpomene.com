@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+
+{% include head.html %}
+
+{% include header.html %}
+
+
+<body>
+
+    <section id="banner">
+        <div class="inner">
+            <header class="major">
+
+                <h1>{{ page.title }}</h1>
+
+            </header>
+            <div class="content">
+
+                {{ page.description }}
+
+            </div>
+        </div>
+    </section>
+
+    <div class="row uniform">
+        <div class="4u 12u$(xsmall)">
+            <span class="image fit"><img src="{{ site.baseurl }}/{{ page.image }}" alt="{{page.description}}"></span>
+        </div>
+        <div class="8u 12u$(xsmall)">
+            {{ content }} 
+        </div>
+    </div>
+    
+	{% include scripts.html %}
+
+
+</body>
+
+</html>

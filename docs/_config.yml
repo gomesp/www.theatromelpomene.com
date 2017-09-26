@@ -1,0 +1,30 @@
+# site settings
+title: Theatro Melpômene
+subtitle: 
+email: colette@colettedantas.com
+description: 
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://theatromelpomene.com" # the base hostname & protocol for your site
+author: Colette Dantas
+street_address:
+city: Vitória
+state: ES
+zip_code: 
+country: 
+phone: (27) 98155-1829
+
+# homepage tiles
+tiles-source: pages # accepts "posts" or "pages"
+tiles-count: 8
+
+# social settings
+facebook_url: https://www.facebook.com/colette.dantas
+instagram_url: https://www.instagram.com/colettedantas3/ 
+twitter_url: https://twitter.com/colettedantas
+colettedantas_url: http://colettedantas.com
+
+# build settings
+markdown: kramdown
+
+sass:
+  style: compressed

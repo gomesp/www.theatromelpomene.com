@@ -1,0 +1,31 @@
+<!-- Wrapper -->
+<div id="wrapper">
+
+<!-- Header -->
+<header id="header"{% if page.layout == "landing" %} class="alt style2"{% endif %}{% if page.layout == "home" %} class="alt"{% endif %}>
+	{% if page.layout == "landing" %}
+	<a href="{{ "" | absolute_url }}" class="logo">
+			<img src="{{ site.baseurl }}/assets/images/logo.png" alt="{{site.title}}" height="60">
+	</a>
+	{% endif %}
+	<nav>
+	<ul class="icons">
+		{% assign sorted_pages = site.pages | sort:"peso" %}
+		{% for page in sorted_pages %}
+		{% if page.tile-display == true %}
+		<li>
+			<a href="{{ page.url | relative_url  }}" class="link">{{ page.title }}</a>
+		</li>
+		{% endif %}
+		
+		{% endfor %}
+		<!--
+		<li><a href="mailto:{{site.email}}" class="icon fa-envelope" target="_blank">Contato</a></li>
+		<li><a href="{{ site.colettedantas_url }}" class="icon fa-link" target="_blank">WWW</a></li>
+		<li><a href="{{ site.facebook_url }}" class="icon fa-facebook" target="_blank">Facebook</a></li>
+		-->
+	</ul>
+	</nav>
+
+</header>
+
