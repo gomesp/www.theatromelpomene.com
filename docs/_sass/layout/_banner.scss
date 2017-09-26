@@ -27,7 +27,7 @@
 		&:after {
 			@include vendor('transition', 'opacity #{_duration(banner)} ease');
 			@include vendor('pointer-events', 'none');
-			background-color: _palette(bg);
+//			background-color: _palette(bg);
 			content: '';
 			display: block;
 			height: 100%;
@@ -94,9 +94,9 @@
 		}
 
 		&.major {
-			height: 35vh;
-			min-height: 20em;
-			max-height: 40em;
+			height: 45vh;
+			min-height: 60em;
+			max-height: 80em;
 
 			&.alt {
 				  opacity: 0.75;
