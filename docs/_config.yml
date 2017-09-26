@@ -4,7 +4,7 @@ subtitle:
 email: colette@colettedantas.com
 description: 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://theatromelpomene.com" # the base hostname & protocol for your site
+url: "http://teste.theatromelpomene.com" # the base hostname & protocol for your site
 author: Colette Dantas
 street_address:
 city: Vitória
