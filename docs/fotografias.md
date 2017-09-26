@@ -35,6 +35,15 @@ legendas:
       foto: FIGURA-85F.png
 ---
 
+<h2>Vídeo</h2>
+<div class="box alt">
+    <div class="row uniform">
+        <div class="6u">
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/efi7BLqFcHw" frameborder="0" allowfullscreen></iframe>
+        </div>
+    </div>
+</div>
+
 <h2>Fotografias</h2>
 <div class="box alt">
     <div class="row uniform">
