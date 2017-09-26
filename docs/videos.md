@@ -3,7 +3,7 @@ layout: landing
 title: Vídeo
 description: 
 image: assets/images/foto-videos.png
-tile-display: false
+tile-display: true
 peso: 30
 permalink: /videos/
 ---
