@@ -1,6 +1,6 @@
 ---
 layout: landing
-title: O Livro
+title: Livro
 description: 
 image: assets/images/foto-livro.jpg
 tile-display: true

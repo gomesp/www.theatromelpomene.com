@@ -45,7 +45,7 @@ permalink: /ficha/
                     <tr>
                         <td>Maquete eletrônica</td>
                         <td>
-                            Verônica N. Cain<br/>
+                            Veronica N. Cain<br/>
                             Fernando Queiroz
                         </td>
                     </tr>
