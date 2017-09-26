@@ -1,6 +1,8 @@
-<!-- Footer -->
+	<!-- Footer -->
 	<footer id="footer">
 		<div class="inner">
+			{% if page.layout == "home" %}
+				
 			<div class="row 50% uniform">
 				<div class="6u"><h2>Apoio</h2><span class="image"><img src="{{ site.baseurl }}/assets/images/footer/footer-apoio-vale.png" alt="" /></span></div>
 				<div class="6u"><h2>Patrocínio</h2><span class="image "><img src="{{ site.baseurl }}/assets/images/footer/footer-lei-rb2.png" alt="" /></span></div>
@@ -14,6 +16,26 @@
 				<div class="1u"><span class="image "><img src="{{ site.baseurl }}/assets/images/footer/footer-apoio-cultural-5.png" alt="" /></div>
 				<div class="1u"><span class="image "><img src="{{ site.baseurl }}/assets/images/footer/footer-apoio-cultural-7.png" alt="" /></span></div>
 				<div class="1u$"><span class="image "><img src="{{ site.baseurl }}/assets/images/footer/footer-apoio-cultural-3.png" alt="" /></div>
+			</div>
+			{% endif %}
+			<div class="row">
+					<div class="4u contact-method">
+							<span class="icon alt fa-user"></span>
+							<h3>Organização</h3>
+							<span>{{ site.author }}</span>
+					</div>
+
+					<div class="4u contact-method">
+						<span class="icon alt fa-envelope"></span>
+						<h3>Email</h3>
+						<a href="#">{{ site.email }}</a>
+					</div>
+
+					<div class="4u contact-method">
+							<span class="icon alt fa-phone"></span>
+							<h3>Telefone</h3>
+							<span>{{ site.phone }}</span>
+					</div>
 			</div>
 		</div>
 				
